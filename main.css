@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+
+img{
+
+    width: 100px;
+    height: 150px;
+    }
+
+.firstgeneration{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 70px;
+}   
+.firstchild{
+    display: flex;
+    margin-right: 22px;
+
+} 
+.secondchild{
+    display: flex;
+}
+.kaka{
+    margin: 5px;
+}
+.appajiri{
+    margin: 5px;
+}
+.secondgeneration{
+    display: flex;
+    justify-content: space-around;
+}
+.firstchilderns{
+    display: flex;
+    
+    
+}
+.secondchilderns{
+    display: flex;
+}
+
+.happyfamily{
+    text-align: center;
+}
